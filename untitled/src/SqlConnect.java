@@ -33,7 +33,6 @@ public class SqlConnect {
             }
         } catch (Exception e) {
             e.printStackTrace();
-
         }
 
     }
